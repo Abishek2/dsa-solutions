@@ -13,7 +13,7 @@ The solutions are organized by topic to make them easy to navigate:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+l
 ---
 
 ### 🧠 Pattern Recognition (My Notes)
@@ -28,4 +28,4 @@ I focus on **patterns** rather than memorizing code. Some key patterns I've mast
 ### 📈 Goals
 - [ ] Complete NeetCode 150
 - [ ] Participate in 10 Weekly LeetCode Contests
-- [ ] Reach 500 total problems solved
+- [ ] Reach 600 total problems solved
